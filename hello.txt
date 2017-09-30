@@ -1,2 +1,4 @@
 Good Morning!
 My name is CiCi630!
+Enjoy Git!
+Goodbye!
